@@ -1,0 +1,241 @@
+<div class="frame-1">
+  <div class="overlap-group">
+    <div class="overlap-group2">
+      <img
+        class="polygon-1"
+        src="polygon-1.svg"
+      />
+      <img
+        class="polygon-8"
+        src="polygon-8.svg"
+      />
+      <img
+        class="polygon-6"
+        src="polygon-8.svg"
+      />
+      <img
+        class="polygon-"
+        src="polygon-3.svg"
+      />
+      <img
+        class="polygon-"
+        src="polygon-4.svg"
+      />
+      <img
+        class="ellipse-1"
+        src="ellipse-1.svg"
+      />
+    </div>
+    <div class="overlap-group3">
+      <img
+        class="polygon-7"
+        src="polygon-7.svg"
+      />
+      <img
+        class="polygon-5"
+        src="polygon-7.svg"
+      />
+      <img
+        class="polygon-2"
+        src="polygon-2.svg"
+      />
+    </div>
+  </div>
+  <div class="overlap-group1">
+    <div class="overlap-group4">
+      <img
+        class="polygon-9"
+        src="polygon-1.svg"
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+* {
+  box-sizing: border-box;
+}
+.frame-1 {
+  background-color: var(--cruise);
+  height: 842px;
+  position: relative;
+  width: 595px;
+}
+.frame-1 .address {
+  left: 382px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: right;
+  top: 604px;
+  width: 187px;
+}
+.frame-1 .ellipse-1 {
+  height: 75px;
+  left: 260px;
+  position: absolute;
+  top: 15px;
+  width: 75px;
+}
+.frame-1 .ellipse-2 {
+  height: 75px;
+  left: 260px;
+  position: absolute;
+  top: -722px;
+  width: 75px;
+}
+.frame-1 .ndh-1 {
+  height: 136px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 115px;
+  width: 138px;
+}
+.frame-1 .overlap-group {
+  background-color: var(--summer-green);
+  height: 105px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 595px;
+}
+.frame-1 .overlap-group1 {
+  background-color: var(--summer-green);
+  height: 105px;
+  left: 0px;
+  position: absolute;
+  top: 737px;
+  width: 595px;
+}
+.frame-1 .overlap-group2 {
+  height: 105px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 424px;
+}
+.frame-1 .overlap-group3 {
+  height: 105px;
+  left: 424px;
+  position: absolute;
+  top: 0px;
+  width: 171px;
+}
+.frame-1 .overlap-group4 {
+  height: 105px;
+  left: 0px;
+  position: absolute;
+  top: 737px;
+  width: 424px;
+}
+.frame-1 .overlap-group5 {
+  height: 105px;
+  left: 424px;
+  position: absolute;
+  top: 737px;
+  width: 171px;
+}
+.frame-1 .polygon- {
+  height: 53px;
+  left: 170px;
+  position: absolute;
+  top: 26px;
+  width: 254px;
+}
+.frame-1 .polygon-1 {
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 26px;
+  width: 170px;
+}
+.frame-1 .polygon-1-1 {
+  height: 53px;
+  left: 170px;
+  position: absolute;
+  top: -711px;
+  width: 254px;
+}
+.frame-1 .polygon-10 {
+  height: 53px;
+  left: 1px;
+  position: absolute;
+  top: -685px;
+  width: 170px;
+}
+.frame-1 .polygon-11 {
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: -737px;
+  width: 170px;
+}
+.frame-1 .polygon-12 {
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: -711px;
+  width: 171px;
+}
+.frame-1 .polygon-13 {
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: -685px;
+  width: 171px;
+}
+.frame-1 .polygon-14 {
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: -737px;
+  width: 171px;
+}
+.frame-1 .polygon-2 {
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 26px;
+  width: 171px;
+}
+.frame-1 .polygon-5 {
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 170px;
+}
+.frame-1 .polygon-6 {
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 171px;
+}
+.frame-1 .polygon-7 {
+  height: 53px;
+  left: 1px;
+  position: absolute;
+  top: 52px;
+  width: 170px;
+}
+.frame-1 .polygon-8 {
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 52px;
+  width: 171px;
+}
+.frame-1 .polygon-9 {
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: -711px;
+  width: 170px;
+}
+.roboto-regular-normal-black-12px {
+  color: black;
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --cruise: rgba(182, 229, 209, 1);
+  --summer-green: rgba(144, 184, 156, 1);
+}
